@@ -11,6 +11,7 @@ Node.js
 #### Frameworks & Libraries:
 * Express.js
 * Socket.IO
+* BoneScript
 * jQuery
 * Bootstrap
 #### Cloud Platform:
