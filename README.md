@@ -1,6 +1,6 @@
 # intruder-detection
 
-#### In this project a system was built to sense the presence of a person in a given location. It uses a motion sensor attached to a micro-controller (beaglebone black) to sense a person's persence and turns a light on in response. 
+#### In this project a system was built to sense the presence of a person in a given location. It uses a motion sensor attached to a single-board computer (beaglebone black) to sense a person's persence and turns a light on in response. 
 
 The applications of this sytem include an intruder detecter where an alarm is triggered in response to a person's uninvited presence in a location or an automated lighting system which turns on the lights when it senses a person's presence.
 
